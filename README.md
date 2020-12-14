@@ -1,2 +1,2 @@
-# Final-Project
+# IBM Data Science
 Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods
